@@ -1,4 +1,4 @@
-//Largest common subsequence - lenght - Recursive solution
+//Largest common subsequence - length - Recursive solution
 //Date - 7-Aug-2018
 
 #include<stdio.h>
