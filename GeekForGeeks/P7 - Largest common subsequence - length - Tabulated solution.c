@@ -1,4 +1,4 @@
-//Largest common subsequence - lenght - Tabulated solution
+//Largest common subsequence - length - Tabulated solution
 //Date - 7-Aug-2018
 
 #include<stdio.h>
