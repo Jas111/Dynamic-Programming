@@ -1,4 +1,4 @@
-//Largest common subsequence - lenght - Memoized solution
+//Largest common subsequence - length - Memoized solution
 //Date - 7-Aug-2018
 
 #include<stdio.h>
